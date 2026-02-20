@@ -1,4 +1,4 @@
-| Analysis Module | SQL Query | Results |
+| Analysis View | SQL Query | Result Data |
 | :--- | :--- | :--- |
 | **01. Forecast vs Invoice Variance** | [View Query](https://github.com/ameliawmt/corporate-finance-performance-sql/blob/main/queries/01%20%E2%80%94%20Fcst%20and%20Act%20vs.%20Invoice%20and%20Variance%20Analysis.sql) | [View Result](https://github.com/ameliawmt/corporate-finance-performance-sql/blob/main/results/01%20%E2%80%94%20Fcst%20and%20Act%20vs.%20Invoice%20and%20Variance%20Analysis.csv) |
 | **02. YoY Growth by Team** | [View Query](https://github.com/ameliawmt/corporate-finance-performance-sql/blob/main/queries/02%20%E2%80%94%20YoY%20Growth%20by%20Team.sql) | [View Result](https://github.com/ameliawmt/corporate-finance-performance-sql/blob/main/results/02%20%E2%80%93%20YoY%20Growth%20by%20Team.csv) |

@@ -1,0 +1,9 @@
+year,team,plan_type,total_fsct_act,total_invoice,variance
+2025,Marketing,Act,7091001,7091001,0
+2025,Sales,Act,2270000,2270000,0
+2025,Product Management,Act,1290000,1290000,0
+2025,Customer Success,Act,830000,830000,0
+2026,Marketing,Fcst,7703001,1483522,6219479
+2026,Sales,Fcst,2314000,498500,1815500
+2026,Product Management,Fcst,1450000,300000,1150000
+2026,Customer Success,Fcst,850000,205000,645000
